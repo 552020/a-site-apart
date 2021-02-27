@@ -2,7 +2,7 @@
 
 Personal Portolio Website Project for the Codecademy Full-Stack Engineer Path. [Hier](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fecp-html-css-and-js-portfolio-project/modules/fecp-personal-portfolio-website/kanban_projects/portfolio-website) the link to the lesson.
 
-## Goals-Checklist:
+## goals-checklist:
 
 1. Build a website using HTML, CSS
 2. Add at least one interactive feature using JavaScript
