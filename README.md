@@ -17,7 +17,7 @@ Personal Portolio Website Project for the Codecademy Full-Stack Engineer Path. [
 The basic concept and the structure of the website are roughly set: the footer and all the secondary pages are still missing.
 Working on the JS features: The first feature will be a night/dark mode button.
 
-You can follow the evolution of the web-page online [here]()
+You can follow the evolution of the web-page online [here](https://552020.github.io/a-site-apart/)
 
 # languages
 
