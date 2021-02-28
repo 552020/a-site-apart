@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("fonts/icomoon.ttf") format("truetype");
+}
+
 header {
   background-color: ff5e78;
   margin: 0px;
@@ -31,16 +36,39 @@ h1 {
 }
 
 button {
-  width: 12vw;
-  height: 5vw;
-  color: #845ec2 ;
-  background-color: whitesmoke;
-  border: red;
-  border-radius: 1vw;
-  align-self: center;
-  margin-right: 3vw;
+  box-sizing: border-box;
+  width: 3vw;
+  height: 3vw;
+ 
+ 
+  margin-right: 5vw;
   margin-top: 4vw;
+  
 
+}
+
+button.button {
+  border: none;
+  background-color: transparent;
+  
+  padding: 0;
+  cursor: pointer; /*https://developer.mozilla.org/en-US/docs/Web/CSS/cursor*/
+
+  display: inline-flex; /* What I have found to work best across many scenarios is display: inline-flex which gives us the content alignment power of flexbox but sits in the DOM within inline-block behavior. */
+  align-items: center;
+  justify-content: center;
+
+  background-color: #845ec2;
+  color: #fff;
+  border-radius: 2vw;
+  box-shadow: 0 3px 5px rgba(245, 244, 244, 0.18);
+  box-shadow: 0 3px 5px rgba(255, 199, 95, 0.18)
+}
+
+#iconmoon {
+  font-family: "icomoon";
+  color: ffc75f;
+  
 }
 
 body {

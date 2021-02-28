@@ -1,4 +1,4 @@
-let element = document.querySelector("button");
+/*let element = document.querySelector("button");
 
 function turnButtonRed() {
   element.style.backgroundColor = "red";
@@ -7,3 +7,4 @@ function turnButtonRed() {
 }
 
 element.onclick = turnButtonRed;
+*/
